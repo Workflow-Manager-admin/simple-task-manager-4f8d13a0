@@ -1,0 +1,23 @@
+.statusBar {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 414px;
+  height: 44px;
+  display: flex;
+  align-items: center;
+  background: transparent;
+  z-index: 10;
+}
+.statusTime {
+  position: absolute;
+  left: 18px;
+  top: 14px;
+  height: 15px;
+}
+.statusIcons {
+  position: absolute;
+  right: 18px;
+  top: 15px;
+  height: 14px;
+}

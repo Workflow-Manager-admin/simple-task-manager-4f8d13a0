@@ -1,0 +1,15 @@
+.todosList {
+  position: absolute;
+  top: 170px;
+  left: 7px;
+  width: 400px;
+  height: 494px;
+  z-index: 4;
+  border-radius: 16px;
+  overflow: hidden;
+}
+.todosList img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
